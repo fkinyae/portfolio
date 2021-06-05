@@ -1,38 +1,13 @@
-html {
-    scroll-behavior: smooth;
-}
-
-.body {
-    background-color: beige;
-    margin: 40px;
-    padding: 50px;
+body {
+    height: auto;
+    width: auto;
+    background-image: url(../images/book.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:  100% 100%;
 }
 
 .head1 {
     text-align: center;
     font-family: 'Akaya Telivigala', cursive;
 }
-
-.nav {
-background-color: #888da7;
-}
-
-.nav a {
-    padding: 14px 16px;
-    float: left;
-    text-align: center;
-    color: black;
-    font-size: 17px;
-    margin-left: 70px;
-    text-decoration: none;
-}
-
-  .nav a:hover {
-    background-color: rgb(56, 54, 54);
-  }
-  
-  /* Add a color to the active/current link */
-  .topnav a.active {
-    background-color: #04AA6D;
-    color: white;
-  }
