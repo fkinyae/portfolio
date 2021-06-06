@@ -22,6 +22,7 @@ Set Up instructions ; To run this page you are just needed to have working inter
 
 SITE LINK
 This is the live link on github pages which gives access to this site.
+https://fkinyae.github.io/portfolio/
 
 
 LICENSE.
