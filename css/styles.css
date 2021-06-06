@@ -11,3 +11,28 @@ body {
     text-align: center;
     font-family: 'Akaya Telivigala', cursive;
 }
+
+.section {
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 350px;
+    text-align: center;
+}
+
+strong {
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-bottom: 5px;
+}
